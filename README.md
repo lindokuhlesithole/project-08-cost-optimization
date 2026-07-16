@@ -86,10 +86,6 @@ aws dynamodb scan --table-name costopt2026-recommendations --region eu-north-1
 terraform destroy -auto-approve
 ```
 
-## Author
-
-AWS Cloud Portfolio Project
-
 ---
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
