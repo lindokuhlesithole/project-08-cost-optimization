@@ -84,9 +84,7 @@ aws dynamodb scan --table-name costopt2026-recommendations --region eu-north-1
 
 ```bash
 terraform destroy -auto-approve
-```
-
----
+```## Author
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
